@@ -1,4 +1,5 @@
 <?php
+    // First DEMO
     session_start();
 
     // Если user нажал Выход => Очистить Cookies
